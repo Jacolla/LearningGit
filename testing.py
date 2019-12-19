@@ -69,3 +69,5 @@ The git status command displays the state of the working directory and the stagi
 It lets you see which changes have been staged, which haven’t, 
 and which files aren’t being tracked by git at the moment.
 git status
+
+#trampilla
