@@ -70,4 +70,4 @@ It lets you see which changes have been staged, which haven’t,
 and which files aren’t being tracked by git at the moment.
 git status
 
-#trampilla
+pues ná
